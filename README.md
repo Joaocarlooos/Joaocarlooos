@@ -1,13 +1,10 @@
 Hi 👋 My name is João Carlos!
 ==========================
 
-
 Full Stack Software Developer
 -----------------------------
 
-
 I'm a 20 year old developer. I love coding and figuring out how to solve deep problems using cutting edge technology. My main focus is back-end development, making applications that impact the lives of thousands of users.
-
 
 * 🌍 I am based in Piaui, Brazil
 * ✉️ You can contact me by email: jc0583109@gmail.com
@@ -15,8 +12,6 @@ I'm a 20 year old developer. I love coding and figuring out how to solve deep pr
 * 🧠 I'm learning C programming language & programming logic.
 * 🤝 I'm open to collaborating on projects that have a high impact on people's lives.
 * ⚡ I love sports and my favorite Handeball.
-
-
 ### Social networks
 
 
@@ -36,7 +31,6 @@ I'm a 20 year old developer. I love coding and figuring out how to solve deep pr
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Joaocarlooos&show_icons=true&theme=transparent&include_all_commits=true&count_private=true"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Joaocarlooos&layout=compact&langs_count=7&theme=transparent"/>
 </div>
-
 
   ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
  
