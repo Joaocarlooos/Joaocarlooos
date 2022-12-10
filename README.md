@@ -6,7 +6,7 @@ Web Developer
 -----------------------------
 
 
-I'm a 20 year old developer. I love coding and figuring out how to solve deep problems using cutting edge technology. My main focus is back-end development, making applications that impact the lives of thousands of users.
+I'm a 20 year old developer. I love coding and figuring out how to solve deep problems using cutting edge technology. My main focus is front-end development, making applications that impact the lives of thousands of users.
 
 * 🌍 I am based in Piaui, Brazil
 * ✉️ You can contact me by email: jc0583109@gmail.com
