@@ -2,7 +2,7 @@ Hi 👋 My name is João Carlos!
 ================================
 
 
-Web developer
+Web Developer
 -----------------------------
 
 
